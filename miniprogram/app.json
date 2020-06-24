@@ -1,0 +1,11 @@
+{
+  "window": {
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "navigationBarTitleText": "@TODO replace me",
+    "navigationBarTextStyle": "black"
+  },
+  "pages": [
+    "pages/index/index"
+  ],
+  "sitemapLocation": "sitemap.json"
+}
