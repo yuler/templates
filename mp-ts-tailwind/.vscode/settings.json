@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.wxss": "css",
+    "*.wxml": "html",
+    "*.wxs": "javascript"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2
+}
