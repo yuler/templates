@@ -14,5 +14,5 @@ You can use `svn` command download template
 For example donwload `mp-blank` template
 
 ```bash
-svn checkout https://github.com/yuler/templates/ts-blank
+svn checkout https://github.com/yuler/templates/trunk/mp-ts-tailwind mp-xxx
 ```
